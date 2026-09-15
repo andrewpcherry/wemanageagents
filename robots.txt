@@ -1,0 +1,6 @@
+# PREVIEW: indexing is blocked. At publication replace with:
+# User-agent: *
+# Allow: /
+# Sitemap: https://wemanageagents.com/sitemap.xml
+User-agent: *
+Disallow: /
