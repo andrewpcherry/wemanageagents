@@ -11,7 +11,7 @@ Plain static HTML, one shared stylesheet and one deferred script. No build step,
 | Route | File |
 |---|---|
 | `/` | `index.html` |
-| `/how-it-works` | `how-it-works/index.html` (anchors `#example`, `#setup`, `#about`) |
+| `/how-it-works` | `how-it-works/index.html` (anchors `#example`, `#setup`) |
 | `/managed-agents` | `managed-agents/index.html` |
 | `/standards` | `standards/index.html` (anchor `#value-review`) |
 | `/talk` | `talk/index.html` |
@@ -42,7 +42,7 @@ Anything else (timeout, network error, non-JSON body) shows the "couldn't confir
 - [ ] Connect and end-to-end test the enquiry destination (contract above).
 - [ ] Write a privacy notice from the actual processing facts and add it to the footer and the form. No legal link exists yet on purpose.
 - [ ] Confirm the legal identity to show on the site.
-- [ ] Andrew reviews the founder statement on `/how-it-works#about`, the development-stage wording and the proposed standards.
+- [ ] Owner review of the development-stage wording and the proposed standards.
 - [ ] Decide on author/date attribution for the guide; none is shown because no review has happened yet.
 - [ ] Point DNS for wemanageagents.com at the chosen host.
 - [ ] Measure Core Web Vitals on the deployed site.
@@ -50,5 +50,5 @@ Anything else (timeout, network error, non-JSON body) shows the "couldn't confir
 ## Deliberate departures from the copy file
 
 - Em dashes in body copy and page titles replaced with commas or a vertical bar (house style). Meaning unchanged.
-- Small interface labels added where the copy file had none: "Needs attention", "Handover picture", "To: Operations lead", "Save example message", "Cancel", "Handover requirement open/confirmed", "Contents", "From the founder", "A guide for business owners", section index numbers, and a "Review the decision" return button in the held state.
+- Small interface labels added where the copy file had none: "Needs attention", "Handover picture", "To: Operations lead", "Save example message", "Cancel", "Handover requirement open/confirmed", "Contents", "A guide for business owners", section index numbers, and a "Review the decision" return button in the held state.
 - Home stage one shows a compact handover picture (scope signed, kickoff Thursday, delivery lead not confirmed) so the missing confirmation is visible without opening the sources.

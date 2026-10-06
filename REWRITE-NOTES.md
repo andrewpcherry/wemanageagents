@@ -14,13 +14,16 @@ Branch `positioning-rewrite`. Not merged and not published: GitHub Pages builds 
 8. **Interactive example** is unchanged apart from two lines. The completion check is now "whoever owns the check, a person, an automation or an agent" instead of "the agent".
 9. Footer tagline on all six pages: "We help owners make their business less dependent on them." / "We audit the business for leverage, not for AI."
 
-## Facts to confirm before this is final
+## Removed on review (6 October 2026)
 
-- **Design-partner status.** The copy says "exploring focused design-partner work with owner-led businesses, beginning with real-estate workflows". This is carried over from the old site. Is any design-partner work actually under way?
-- **Real estate as the starting niche.** Keep it, or make it broader?
-- **Founder section.** Only your name is verified. There are no credentials, past experience or proof points. A real before and after on one workflow, even an internal one, would be the strongest evidence to add.
-- **Who implements.** The responsibility table says implementation is "agreed per engagement". Decide whether you implement, or only diagnose and manage.
-- **Commercial terms.** Pricing and the assessment, pilot and management structure are deliberately left out. Nothing was invented.
+- All design-partner language.
+- All real estate references (homepage section, FAQ, guide).
+- The founder section and the footer link to it. The owner's name appears nowhere on the site.
+- The "who implements" row in the responsibility table.
+
+## Still to confirm
+
+- Commercial terms: pricing and the structure of the assessment, pilot and management are deliberately left out. Nothing was invented.
 
 ## Launch dependencies (unchanged from README)
 
